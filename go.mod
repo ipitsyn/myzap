@@ -1,4 +1,4 @@
-module myzap
+module github.com/ipitsyn/myzap
 
 go 1.18
 
